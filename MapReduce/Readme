@@ -1,0 +1,2 @@
+This is a small demo of MapReduce, it can be used under Azure HDInsight to calculuate the PV and the independent IP without repetition from
+web log.
